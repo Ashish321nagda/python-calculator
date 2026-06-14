@@ -1,5 +1,4 @@
-# python-calculator
-A simple calculator built using Python
+
 # Python Calculator
 
 This is a simple calculator built using Python.
